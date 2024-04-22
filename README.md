@@ -65,7 +65,6 @@ You can run the app and explore your API in the browser by using Flask command:
 $ flask run
 ```
 
-Edit `app.py` to handle the following `GET` requests:
 
 - `GET /bakeries`: returns a list of JSON objects for all bakeries in the
   database.
